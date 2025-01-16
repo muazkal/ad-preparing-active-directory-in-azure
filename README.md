@@ -1,4 +1,4 @@
-<h1>AD-Preparing-Active-Directory-In-Azure</h1>
+<h1>Preparing Active Directory In Azure</h1>
 
 <h2>Description</h2>
 This is part 1/3 of building a fully-functioning Active Directory server. Part 1 will focus on making 2 virtual machines and configuring their networks. <br/>
