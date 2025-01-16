@@ -1,6 +1,6 @@
 <h1>💻 Preparing Active Directory in Azure</h1> 
 
-<h2>Description</h2> This is part 1 of 3 in building a fully functioning Active Directory server. Part 1 focuses on creating two virtual machines and configuring their networks to prepare the environment for Active Directory. <br /><br /> 
+<h2>Description</h2> This is part 1 of 2 in building a fully functioning Active Directory server. Part 1 focuses on creating two virtual machines and configuring their networks to prepare the environment for Active Directory. <br /><br /> 
 
 <h2>Environments and Utilities Used</h2> 
 - <b>Microsoft Azure</b> 
