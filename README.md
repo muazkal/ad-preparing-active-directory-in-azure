@@ -18,8 +18,11 @@ This is part 1/3 of building a fully-functioning Active Directory server. Part 1
 <h2>Project Walk-through:</h2>
 
 <h3>Make the resource group</h3>
-<img src="">
+<img src="Screenshot 2025-01-15 214150.png">
 
-<h3>Make a virtual network</h3>
-<img src="">
+<h3>Make a virtual network: MAKE SURE THE VIRTUAL MACHINES AND VIRTUAL NETWORK MADE LATER ARE IN THE SAME REGION.</h3>
+<img src="Screenshot 2025-01-15 214317.png">
 
+<h3>Make the first virtual machine: Windows Server. MAKE SURE THEY ARE IN THE SAME VIRTUAL NETWORK AS THE ONE MADE PRIOR</h3>
+<img src="Screenshot 2025-01-15 214541.png">
+<img src="Screenshot 2025-01-15 214600.png">
