@@ -55,3 +55,5 @@
 </ul> 
 
 <h2>🎉 YOU DID IT!</h2> <p>Now, the environment is ready to install Active Directory on the domain controller. Proceed to part 2 to continue building your Active Directory server.</p>
+
+<h1>Part 2: https://github.com/muazkal/AD-Deploying-Active-Directory</h1>
