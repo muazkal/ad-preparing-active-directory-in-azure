@@ -54,3 +54,6 @@ This is part 1/3 of building a fully-functioning Active Directory server. Part 1
  - From Client-1, open PowerShell and run ipconfig /all
  - The output for the DNS settings should show DC-1’s private IP Address
 <img src="Annotation 2025-01-16 061043.png">
+
+
+<h2>YOU DID IT. Now, it's time to install Active Directory in the domain controller</h2>
